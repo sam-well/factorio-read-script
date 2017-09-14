@@ -1,0 +1,12 @@
+{
+    "name": "ReadScript",
+    "version": "0.1.0",
+    "title": "Read Script",
+    "author": "sam-well",
+    "contact": "hey@samrodriguez.me",
+    "homepage": "http://www.samrodriguez.me",
+    "factorio_version": "0.15",
+    "dependencies": ["base >= 0.15"],
+    "description": "This mod lets you read scripts into your game."
+}
+
